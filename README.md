@@ -9,12 +9,18 @@ Job Search: Search for jobs by title, company, or location.
 Featured Jobs: Highlighted job listings to help you find top opportunities quickly.
 Popular Jobs: A selection of popular job listings to help you explore high-demand positions.
 Job Details: View detailed job descriptions, salary information, and locations.
+![alt text](<Screenshot 2024-06-19 203216-1.png>)
+
+
 
 .
 SEARCHING FOR JOBS
 Use the search bar to find jobs by entering job titles, companies, or locations.
 Browse through the search results to find jobs that match your criteria.
 Tap on any job listing to view more details.
+![alt text](<Screenshot 2024-06-19 203655-1.png>)
+ 
+
 
 FEATURED JOBS
 Featured jobs are prominently displayed to give you quick access to high-profile job opportunities.
@@ -38,4 +44,3 @@ For any questions or support, please contact our support team at support wkwaffo
 
 CONCLUSION
 Job-Site is your go-to app for finding and applying for jobs with ease. Start your job search today and find the perfect job that matches your skills and interests.
-![alt text](<Screenshot 2024-06-19 203216.png>) ![alt text](<Screenshot 2024-06-19 203655.png>)
