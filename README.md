@@ -38,3 +38,4 @@ For any questions or support, please contact our support team at support wkwaffo
 
 CONCLUSION
 Job-Site is your go-to app for finding and applying for jobs with ease. Start your job search today and find the perfect job that matches your skills and interests.
+![alt text](<Screenshot 2024-06-19 203216.png>) ![alt text](<Screenshot 2024-06-19 203655.png>)
